@@ -13,8 +13,7 @@
 
 ## Let's connect and build something amazing! 💡
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&theme=transparent)
+<img align='left' alt='RahulKrishnaKR Stats' src = "https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&theme=transparent"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkrishnakr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img align='left' alt='RahulKrishnaKR Stats' src = "[https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&theme=transparent](https://github.com/anuraghazra/github-readme-stats)"
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahulkrishnakr)](https://github.com/anuraghazra/github-readme-stats)
