@@ -86,6 +86,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrishnakr&" alt="rahulkrishnakr" /></p>
 
 ---
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 ---
 
 <p align="center">
