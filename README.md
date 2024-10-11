@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkrishnakr" alt="rahulkrishnakr" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif">
+
 - 🌱 I’m currently learning **Data Analytics, DSA**
 
 - 💬 Ask me about **Front-End, Python**
 
 - 📫 How to reach me **rahulkridhna@gmail.com**
-
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
