@@ -21,7 +21,6 @@
 - 💬 Ask me about **Front-End, Python**  
 - 📧 Reach me at: **rahulkridhna@gmail.com**  
 
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -42,7 +41,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="left">
@@ -80,11 +79,11 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrishnakr&show_icons=true&locale=en&layout=compact" alt="rahulkrishnakr" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&locale=en" alt="rahulkrishnakr" />
 </p>
 
