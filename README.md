@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 
 <h1 align="center">Holaaaa😉✌️ Rahul Krishna K R</h1>
 <h3 align="center">A passionate Coder from India</h3>
