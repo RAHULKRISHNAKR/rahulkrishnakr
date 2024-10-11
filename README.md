@@ -1,4 +1,4 @@
-### Holaaa! 👋 I'm Rahul Krishna K R! 🚀
+## Holaaa! 👋 I'm Rahul Krishna K R! 🚀
 🎯 Currently Focusing on: Data Structures & Algorithms (DSA)
 🎓 Studying: Data Science @ Mar Athanasius College of Engineering, Kothamangalam
 🎬 Director @ ENCIDE MACE
@@ -11,5 +11,5 @@
 
 🎧 Music + 🧠 Focus = ⚡
 
-# Let's connect and build something amazing! 💡
+## Let's connect and build something amazing! 💡
 
