@@ -13,4 +13,4 @@
 
 ## Let's connect and build something amazing! 💡
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats-sigma-drab-75.vercel.app/api?username=rahulkrishnakr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-drab-75.vercel.app/api?username=rahulkrishnakr)](https://github.com/anuraghazra/github-readme-stats)
