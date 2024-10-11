@@ -13,7 +13,4 @@
 
 ## Let's connect and build something amazing! 💡
 
-<img align='left' alt='RahulKrishnaKR Stats' src = "https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&theme=transparent"
-
-<img align='left' alt='RahulKrishnaKR Stats' src = "[https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&theme=transparent](https://github.com/anuraghazra/github-readme-stats)"
-
+[![Anurag's GitHub stats](httpsgithub-readme-stats-sigma-drab-75.vercel.app/api?username=rahulkrishnakr)](https://github.com/anuraghazra/github-readme-stats)
