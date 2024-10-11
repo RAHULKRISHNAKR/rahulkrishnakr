@@ -79,16 +79,26 @@
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrishnakr&show_icons=true&locale=en&layout=compact" alt="rahulkrishnakr" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrishnakr&show_icons=true&locale=en&layout=compact" alt="rahulkrishnakr" /></p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&locale=en" alt="rahulkrishnakr" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&locale=en" alt="rahulkrishnakr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrishnakr&" alt="rahulkrishnakr" /></p>
+
+---
+---
+
+<p align="center">
+  🚀 Ready to collaborate or just have a chat? Let's connect and build something cool! 😄 <br>
+  Made with ❤️ by <a href="https://github.com/rahulkrishnakr">Rahul Krishna K R</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrishnakr&" alt="rahulkrishnakr" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/rahulkrishnakr"><img src="https://img.shields.io/github/followers/rahulkrishnakr?label=Follow%20Me&style=social"></a>
+  <a href="https://github.com/rahulkrishnakr"><img src="https://img.shields.io/github/stars/rahulkrishnakr?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
+</p>
+
