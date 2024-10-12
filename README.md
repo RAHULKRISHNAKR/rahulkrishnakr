@@ -99,6 +99,9 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 ---
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rahulkrishnakr)
+
+---
 
 <p align="center">
   🚀 Ready to collaborate or just have a chat? Let's connect and build something cool! 😄 <br>
