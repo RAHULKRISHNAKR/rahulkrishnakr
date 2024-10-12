@@ -3,6 +3,8 @@
 <h1 align="center">Holaaa😉✌️... I'm Rahul Krishna K R</h1>
 <h3 align="center">A Passionate Coder from India 🇮🇳</h3>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rahulkrishnakr)
+---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulkrishnakr&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkrishnakr" /> </p>
 
 <p align="center"> 
@@ -97,10 +99,8 @@
 ---
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rahulkrishnakr)
 
+<!--END_SECTION:activity-->
 ---
 
 <p align="center">
