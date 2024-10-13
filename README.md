@@ -81,9 +81,9 @@
 
 ---
 
-<p><img align="left" width=500px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+<p><img align="left" width=475px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
-<p>&nbsp;<img align="center" width=500px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+<p>&nbsp;<img align="center" width=457px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
 <p><img align="center"  width = 1000px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
