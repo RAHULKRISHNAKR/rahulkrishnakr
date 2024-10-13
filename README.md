@@ -98,6 +98,9 @@
 <!-- my-badges end -->
 ---
 
+---
+![](./profile-3d-contrib/profile-green-animate.svg)
+---
 <p align="center">
   🚀 Ready to collaborate or just have a chat? Let's connect and build something cool! 😄 <br>
   Made with ❤️ by <a href="https://github.com/rahulkrishnakr">Rahul Krishna K R</a>
