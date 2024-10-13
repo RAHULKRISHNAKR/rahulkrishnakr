@@ -85,7 +85,7 @@
 
 <p>&nbsp;<img align="center" width=400px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+<p><img align="center"  width = 800px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
 ---
 <!-- my-badges start -->
