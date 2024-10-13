@@ -80,11 +80,10 @@
 </p>
 
 ---
-https://github-readme-stats.vercel.app/api?username=rahulkrishnakr&show_icons=true&locale=en
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkrishnakr&show_icons=true&locale=en&layout=compact" alt="rahulkrishnakr" /></p>
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=dracula" alt="rahulkrishnakr" /></p>
+<p>&nbsp;<img align="center" width=400px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrishnakr&" alt="rahulkrishnakr" /></p>
 
