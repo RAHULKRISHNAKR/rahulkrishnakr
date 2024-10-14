@@ -9,15 +9,15 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"create\".",
-    "body": "My favorite commit message words are:\n\n1. create (used 53 times)\n2. update (used 49 times)\n3. readme.md (used 42 times)\n4. initial (used 19 times)\n5. commit (used 18 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 66 times)\n2. readme.md (used 56 times)\n3. create (used 54 times)\n4. initial (used 20 times)\n5. commit (used 19 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/007c909a9a872e0d3087d11bd5b597a18b460274\">007c909</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/c617ef7aee1b59b9a8b3cefe2f01c353b81676b2\">c617ef7</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/8d32dc45d5e8262869142826cf8eae704ebaa888\">8d32dc4</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/9276970e0e69127b8398f92ff2ff22307a95ab4e\">9276970</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr/commit/2bfe5c67a962a94b29afd19fd2d52acd2b0b3f43\">2bfe5c6</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr/commit/7822c8d982fd90d40dffd44f11cadb352e10bc2d\">7822c8d</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/007c909a9a872e0d3087d11bd5b597a18b460274\">007c909</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/c617ef7aee1b59b9a8b3cefe2f01c353b81676b2\">c617ef7</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/8d32dc45d5e8262869142826cf8eae704ebaa888\">8d32dc4</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3/commit/9276970e0e69127b8398f92ff2ff22307a95ab4e\">9276970</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
