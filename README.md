@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif">
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif">
 
 - 🎓 Studying **Data Science @** [Mar Athanasius College of Engineering](https://mace.ac.in)  
 - 🎬 Director @ **[ENCIDE MACE](https://encidemace.xyz)**  
