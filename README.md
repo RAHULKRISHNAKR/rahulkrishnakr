@@ -70,12 +70,9 @@
 
 ---
 
-<p><img align="left" width=400px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+<p><img align="left" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
-<p>&nbsp;<img align="center" width=400px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
-
-<p><img align="center"  width = 900px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
-
+<p>&nbsp;<img align="center" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 ---
 
 <p align="center"> 
@@ -94,10 +91,6 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
 
----
-
----
-![](./profile-3d-contrib/profile-green-animate.svg)
 ---
 <p align="center">
   🚀 Ready to collaborate or just have a chat? Let's connect and build something cool! 😄 <br>
