@@ -69,12 +69,11 @@
 </p>
 
 ---
-<div align="center">
-  <p><img align="left" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
-
-<p>&nbsp;<img align = "right" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" />
+  <img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" />
 </div>
+
 
 ---
 
