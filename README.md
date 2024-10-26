@@ -12,11 +12,11 @@
   <div style="flex: 1; min-width: 300px;">
     <h3>About Me 💫</h3>
     
-    - 🎓 Studying **Data Science @** [Mar Athanasius College of Engineering](https://mace.ac.in)
-    - 🎬 Director @ **[ENCIDE MACE](https://encidemace.xyz)**
-    - 🌱 Currently learning **Data Analytics, DSA**
-    - 💬 Ask me about **Front-End, Python**
-    - 📧 Reach me at: **rahulkridhna@gmail.com**
+- 🎓 Studying Data Science @ [Mar Athanasius College of Engineering](https://mace.ac.in)
+- 🎬 Director @ [ENCIDE MACE](https://encidemace.xyz)
+- 🌱 Currently learning **Data Analytics, DSA**
+- 💬 Ask me about **Front-End, Python**
+- 📧 Reach me at: **rahulkridhna@gmail.com**
   </div>
   
   <div style="flex: 0 0 auto;">
