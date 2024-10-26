@@ -1,19 +1,8 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Holaaa😉✌️... I'm Rahul Krishna K R</h1>
-<h3 align="center">A Passionate Coder from India 🇮🇳</h3>
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rahulkrishnakr)
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulkrishnakr&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkrishnakr" /> </p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulkrishnakr&row=1&column=7" alt="rahulkrishnakr" />
-  </a> 
-</p>
-
----
 
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif">
 
@@ -86,6 +75,14 @@
 <p>&nbsp;<img align="center" width=400px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
 <p><img align="center"  width = 900px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+
+---
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulkrishnakr&row=1&column=7" alt="rahulkrishnakr" />
+  </a> 
+</p>
 
 ---
 <!-- my-badges start -->
