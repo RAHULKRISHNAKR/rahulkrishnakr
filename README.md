@@ -18,10 +18,6 @@
 - 💬 Ask me about **Front-End, Python**
 - 📧 Reach me at: **rahulkridhna@gmail.com**
   </div>
-  
-  <div style="flex: 0 0 auto;">
-    <img width="200" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif" alt="Coding" />
-  </div>
 </div>
 
 <div style="margin: 40px 0;">
