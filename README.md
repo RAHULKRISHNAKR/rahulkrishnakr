@@ -69,10 +69,12 @@
 </p>
 
 ---
-
-<p><img align="left" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+<div align="center">
+  <p><img align="left" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
 <p>&nbsp;<img  width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+
+</div>
 
 ---
 
