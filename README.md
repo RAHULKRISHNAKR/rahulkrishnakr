@@ -58,7 +58,7 @@
 </div>
 
 <div style="margin: 40px 0;">
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 Stats</h3>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="Language Stats" />
     <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="GitHub Stats" />
@@ -66,7 +66,7 @@
 </div>
 
 <div style="margin: 40px 0;">
-  <h3>🏆 GitHub Trophies</h3>
+  <h3>🏆 Trophies</h3>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=rahulkrishnakr&row=1&column=7&margin-w=15" alt="Trophies" />
   </div>
