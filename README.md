@@ -73,6 +73,7 @@
 <p><img align="left" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
 
 <p>&nbsp;<img align="center" width=300px src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="rahulkrishnakr" /></p>
+
 ---
 
 <p align="center"> 
@@ -91,7 +92,9 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
 
+
 ---
+
 <p align="center">
   🚀 Ready to collaborate or just have a chat? Let's connect and build something cool! 😄 <br>
   Made with ❤️ by <a href="https://github.com/rahulkrishnakr">Rahul Krishna K R</a>
