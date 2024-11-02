@@ -86,7 +86,7 @@
 
   </div>
 </div>
----
+<br>
 <div align="center" style="margin-top: 60px;">
   <p>🚀 Ready to collaborate or just have a chat? Let's connect and build something cool! 😄</p>
   <p>Made with ❤️ by <a href="https://github.com/rahulkrishnakr">Rahul Krishna K R</a></p>
