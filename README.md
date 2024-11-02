@@ -75,10 +75,8 @@
 <div style="margin: 40px 0;">
   <h3>🎖️ My Badges</h3>
   <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <img src="https://my-badges.github.io/my-badges/a-commit.png" alt="A Commit" width="64" />
-    <img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="Favorite Word" width="64" />
-    <img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Sleepy Coder" width="64" />
-    <img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="Morning Commits" width="64" />
+    <!-- my-badges start -->
+<!-- my-badges end -->
   </div>
 </div>
 
