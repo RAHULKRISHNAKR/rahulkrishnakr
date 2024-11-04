@@ -10,21 +10,21 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 123 times)\n2. readme.md (used 95 times)\n3. create (used 66 times)\n4. initial (used 22 times)\n5. commit (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 123 times)\n2. readme.md (used 95 times)\n3. create (used 66 times)\n4. commit (used 23 times)\n5. added (used 22 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/DataStructure/commit/0432dc524b2ec8661c60db99e6a51402b4e3de54\">0432dc5</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr/commit/971610e00f0baf4cbaa82a7391d2a092603fec17\">971610e</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr/commit/50d37630a485540c8b04492740ad2a31b648e4b5\">50d3763</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr/commit/3bf43d948fe20a316bc6cad63a1f0fa4f786066a\">3bf43d9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr/commit/4fe936ba6f3eb714f5a0d3eb993558a025fdd290\">4fe936b</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr/commit/c2a5981f449ba70ce14a9785820aba7af98a6dbe\">c2a5981</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/dc0e9b96c3b17b67bd2ae3aa9cc9e40e9e383360\">dc0e9b9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/7fa01c11f8c43c42d293f2049b9b0362b65a8a9f\">7fa01c1</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/b54117c4cf121d90d62b2b38e11e618435fd5a1d\">b54117c</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/134b7b9aa4291894937b19afc69855f101614454\">134b7b9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/8446a9fc43fc252b0c82f2fc68c0f10a6edcea64\">8446a9f</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/861c03c2177252af21353bbda790d1281bc124e3\">861c03c</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/2de569c4fd71155bf6f558850c42b8746a3450fd\">2de569c</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Bank-Customer-Behaviour/commit/d100fc7d9d195004b4b82ec2ee2c5803ef2d12e8\">d100fc7</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/4c740901b9098c87aad438130925e90b13f5b59b\">4c74090</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/3656325a92ff5bae7e150065552cd5375008c361\">3656325</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Bank-Customer-Behaviour/commit/ea599cbc81ab8dfcdf17593483a2172504c4ea94\">ea599cb</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Bank-Customer-Behaviour/commit/aea6ce7365b11e3b5829aaacb4fa6c032fd7e720\">aea6ce7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/744ee3a592c54d97b2bc4a72fcb1e78ff55fdd5c\">744ee3a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/4aea87a8f770e16a11e4048c3d778223e3116802\">4aea87a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/f9fc49b205e27c79f840c04e041dc910451be593\">f9fc49b</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/2de569c4fd71155bf6f558850c42b8746a3450fd\">2de569c</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Bank-Customer-Behaviour/commit/d100fc7d9d195004b4b82ec2ee2c5803ef2d12e8\">d100fc7</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/4c740901b9098c87aad438130925e90b13f5b59b\">4c74090</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   }
 ]
