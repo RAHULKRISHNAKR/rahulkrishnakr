@@ -26,5 +26,19 @@
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/744ee3a592c54d97b2bc4a72fcb1e78ff55fdd5c\">744ee3a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/4aea87a8f770e16a11e4048c3d778223e3116802\">4aea87a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/f9fc49b205e27c79f840c04e041dc910451be593\">f9fc49b</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/2de569c4fd71155bf6f558850c42b8746a3450fd\">2de569c</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Bank-Customer-Behaviour/commit/d100fc7d9d195004b4b82ec2ee2c5803ef2d12e8\">d100fc7</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/4c740901b9098c87aad438130925e90b13f5b59b\">4c74090</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/DSA_REPO/commit/5bdc2ac1bf82136acafe9d4f22e76b109422a7c5\">5bdc2ac1bf82136a<strong>cafe</strong>9d4f22e76b109422a7c5</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/DSA_REPO/commit/df64bc22ab9490fce146d3c2e0f731001773d7ea\">df64bc2</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/DSA_REPO/commit/5bdc2ac1bf82136acafe9d4f22e76b109422a7c5\">5bdc2ac</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/DSA_REPO/commit/eab0577f2528c669df537f4951bb928fec485d2c\">eab0577</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   }
 ]
