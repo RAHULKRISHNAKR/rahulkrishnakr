@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/a069b29721b9e2b18fca499566476c456aba4921\"><strong>a</strong>069b29721b9e2b18fca499566476c456aba4921</a>",
+    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_DSA_LAB_S3/commit/a3c263904f9daccc2b8bb521f7c4818f81e1bccc\"><strong>a</strong>3c263904f9daccc2b8bb521f7c4818f81e1bccc</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -47,5 +47,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/4e391760d224c449117017a46462c89027e6aab7\">4e39176</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/fa80a8a9f849a626a1185eae2323ea6fe8bb35bf\">fa80a8a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/fd0dc2718310bac646cee1fd9c2ebc6a554a844f\">fd0dc27</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/468c07bae66acf8fc740f676f056b7350467213a\">468c07b</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/e234e08a99ac6945f935e3d550edfe65468763fb\">e234e08</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/bd13bab7eea7ea4c367b71643c105baca8f5013d\">bd13bab</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 8 my own repositories.",
+    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/Bank-Customer-Behaviour\">RAHULKRISHNAKR/Bank-Customer-Behaviour</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_DSA_LAB_S3\">RAHULKRISHNAKR/KTU_DSA_LAB_S3</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Java-Lab-Ktu-S3\">RAHULKRISHNAKR/Java-Lab-Ktu-S3</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S4_PYTHON_LAB\">RAHULKRISHNAKR/KTU_S4_PYTHON_LAB</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S4_OS_LAB\">RAHULKRISHNAKR/KTU_S4_OS_LAB</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DBMS_LAB\">RAHULKRISHNAKR/KTU_S5_DBMS_LAB</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB\">RAHULKRISHNAKR/KTU_S5_DA_LAB</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/rahulkrishnakr\">RAHULKRISHNAKR/rahulkrishnakr</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
