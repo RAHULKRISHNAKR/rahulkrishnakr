@@ -10,14 +10,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 126 times)\n2. readme.md (used 98 times)\n3. create (used 75 times)\n4. added (used 24 times)\n5. commit (used 23 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 126 times)\n2. readme.md (used 98 times)\n3. create (used 77 times)\n4. added (used 24 times)\n5. commit (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/2c19c55228b492bc83387897925496b2d57f2f86\">2c19c55</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/dc0e9b96c3b17b67bd2ae3aa9cc9e40e9e383360\">dc0e9b9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/7fa01c11f8c43c42d293f2049b9b0362b65a8a9f\">7fa01c1</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/b54117c4cf121d90d62b2b38e11e618435fd5a1d\">b54117c</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/134b7b9aa4291894937b19afc69855f101614454\">134b7b9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/8446a9fc43fc252b0c82f2fc68c0f10a6edcea64\">8446a9f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/139c50a639aa007d6ee3b60fe80fe9afefe1d801\">139c50a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/1a3119381a1861a12dec8c49190acba3e65455b3\">1a31193</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/2c19c55228b492bc83387897925496b2d57f2f86\">2c19c55</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/dc0e9b96c3b17b67bd2ae3aa9cc9e40e9e383360\">dc0e9b9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/7fa01c11f8c43c42d293f2049b9b0362b65a8a9f\">7fa01c1</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/b54117c4cf121d90d62b2b38e11e618435fd5a1d\">b54117c</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
