@@ -90,7 +90,7 @@
 </div>
 <br>
 <div align="center" style="margin-top: 60px;">
-  <p>🚀 Ready to collaborate or just have a chat? Let's connect and build something cool! 😄</p>
+  <p>🚀 Ready to collaborate or just have a chat? Let's connect and build something coooooool! 😄</p>
   <p>Made with ❤️ by <a href="https://github.com/rahulkrishnakr">Rahul Krishna K R</a></p>
   
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" />
