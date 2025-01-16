@@ -24,14 +24,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/7b7b6fababd560c8d1fdd7ba135a0806ea46065c\">7b7b6fa</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/0a2de4b961bc6fe7ca58573a9e7c2579e5a2f89a\">0a2de4b</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/744ee3a592c54d97b2bc4a72fcb1e78ff55fdd5c\">744ee3a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/4aea87a8f770e16a11e4048c3d778223e3116802\">4aea87a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/f9fc49b205e27c79f840c04e041dc910451be593\">f9fc49b</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Seminar_Hall_Booking_System/commit/2de569c4fd71155bf6f558850c42b8746a3450fd\">2de569c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/bcb26e98691efb07c477e085b73486fcb6c868b8\">bcb26e9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/e143cbb2d6e120e876b6f2c55e581a9ec457a7a3\">e143cbb</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/a0e123765d19f4ed687b8bf91fb82bc0a791ee57\">a0e1237</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/ea7fdb64294cdbdfbdaacb84e5c977b887305eb4\">ea7fdb6</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/faa8977a1917d27897de21bcab76ae21f72af7ee\">faa8977</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/7ee4c6f3d96eafb4a06e8990b20bf71a34138d4a\">7ee4c6f</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/1ee9418fd99df1ef97c5cafe63e701a98fd19e51\">1ee9418fd99df1ef97c5<strong>cafe</strong>63e701a98fd19e51</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/DSA_REPO/commit/5bdc2ac1bf82136acafe9d4f22e76b109422a7c5\">5bdc2ac1bf82136a<strong>cafe</strong>9d4f22e76b109422a7c5</a>",
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/DSA_REPO/commit/5bdc2ac1bf82136acafe9d4f22e76b109422a7c5\">5bdc2ac1bf82136a<strong>cafe</strong>9d4f22e76b109422a7c5</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
@@ -59,21 +59,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/ab89ffa64c81e9b729c3b97c315d9532ed477de9\"><strong>ab</strong>89ffa64c81e9b729c3b97c315d9532ed477de9</a>",
+    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/ab777b2a0b495debfd1538191709523d4c15075c\"><strong>ab</strong>777b2a0b495debfd1538191709523d4c15075c</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "abc-commit",
-    "tier": 3,
-    "desc": "One of my commit sha starts with \"abc\".",
-    "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/abcce2da9e6d73b53210b22a054c658fb1362473\"><strong>abc</strong>ce2da9e6d73b53210b22a054c658fb1362473</a>",
-    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/10dc7c991cc82bf73628080d9fd4c0f42079e79d\">10dc7c9</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/c2428e2d04d436bc55bdbd302d525f0b303babbf\">c2428e2</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/8465c2acdcc433a397bd742d0789288f3d52e8c2\">8465c2a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/e299360e623f2d477ab29bcff95f18c095b169e8\">e299360</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/ec0603aef06d92d0419cd0a8daa6437098ce25bf\">ec0603a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/2a5e3142b5c06679f68133e59025ae653ce841f2\">2a5e314</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
