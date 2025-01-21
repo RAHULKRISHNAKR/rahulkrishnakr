@@ -10,14 +10,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 128 times)\n2. readme.md (used 99 times)\n3. create (used 94 times)\n4. commit (used 24 times)\n5. added (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 128 times)\n2. readme.md (used 99 times)\n3. create (used 94 times)\n4. commit (used 25 times)\n5. initial (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Drug_Addiction_Awareness_App/commit/da3616de98cf70c073ecd67b139a21742838e492\">da3616d</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Drug_Addiction_Awareness_App/commit/a64bf6173ec156d75738fae7e208dae6529a8449\">a64bf61</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/139c50a639aa007d6ee3b60fe80fe9afefe1d801\">139c50a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/1a3119381a1861a12dec8c49190acba3e65455b3\">1a31193</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/2c19c55228b492bc83387897925496b2d57f2f86\">2c19c55</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/KTU_S5_DA_LAB/commit/dc0e9b96c3b17b67bd2ae3aa9cc9e40e9e383360\">dc0e9b9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Tnp-Technical-25/commit/d554201dbf44bd27b85b6bb585fee5f779f44df2\">d554201</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Tnp-Technical-25/commit/fd049f3ce0ea087e6fb691526b2b442699a04488\">fd049f3</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Drug_Addiction_Awareness_App/commit/da3616de98cf70c073ecd67b139a21742838e492\">da3616d</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Drug_Addiction_Awareness_App/commit/a64bf6173ec156d75738fae7e208dae6529a8449\">a64bf61</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/139c50a639aa007d6ee3b60fe80fe9afefe1d801\">139c50a</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/1a3119381a1861a12dec8c49190acba3e65455b3\">1a31193</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
