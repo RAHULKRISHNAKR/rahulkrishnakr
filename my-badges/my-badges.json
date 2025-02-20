@@ -61,5 +61,12 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/RAHULKRISHNAKR/auto-commit-repo/commit/ab777b2a0b495debfd1538191709523d4c15075c\"><strong>ab</strong>777b2a0b495debfd1538191709523d4c15075c</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/edd417091deacaa6de75601af99d17e2d5b5ec44\">edd4170</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/991c5571b10172f13656c19ed2bb904907aaa89a\">991c557</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/09f6b640d9fe55f092ed28dd4b93e3db1139da9d\">09f6b64</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
