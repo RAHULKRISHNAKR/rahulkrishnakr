@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 137 times)\n2. readme.md (used 101 times)\n3. create (used 99 times)\n4. added (used 29 times)\n5. initial (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 139 times)\n2. readme.md (used 103 times)\n3. create (used 99 times)\n4. added (used 35 times)\n5. initial (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/ecommerce_monorepo/commit/4868f8eb8e737988bf69ff41349dbbe6b3175ed9\">4868f8e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/keerthanakamal/emotion-based-song-recommendation-system/commit/1b9f885667bb619d609e6053f3afe907c3e6f22e\">1b9f885</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/ecommerce_monorepo/commit/4868f8eb8e737988bf69ff41349dbbe6b3175ed9\">4868f8e</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/keerthanakamal/emotion-based-song-recommendation-system/commit/608159760caaebac85cd1a1e12809b4af63a77ae\">6081597</a>: chore: replace README.md with detailed setup instructions in readme.txt",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]
