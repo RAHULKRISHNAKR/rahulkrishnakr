@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 140 times)\n2. readme.md (used 104 times)\n3. create (used 99 times)\n4. added (used 35 times)\n5. initial (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 140 times)\n2. readme.md (used 104 times)\n3. create (used 99 times)\n4. added (used 41 times)\n5. initial (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/edd417091deacaa6de75601af99d17e2d5b5ec44\">edd4170</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/991c5571b10172f13656c19ed2bb904907aaa89a\">991c557</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/09f6b640d9fe55f092ed28dd4b93e3db1139da9d\">09f6b64</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/c7c225f7c2d2b377eab962bfc45845a5a8c67f45\">c7c225f</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/edd417091deacaa6de75601af99d17e2d5b5ec44\">edd4170</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/991c5571b10172f13656c19ed2bb904907aaa89a\">991c557</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Geeks_For_Geeks_/commit/09f6b640d9fe55f092ed28dd4b93e3db1139da9d\">09f6b64</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/keerthanakamal/emotion-based-song-recommendation-system/commit/1b9f885667bb619d609e6053f3afe907c3e6f22e\">1b9f885</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/ecommerce_monorepo/commit/4868f8eb8e737988bf69ff41349dbbe6b3175ed9\">4868f8e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/c7c225f7c2d2b377eab962bfc45845a5a8c67f45\">c7c225f</a>\n- <a href=\"https://github.com/keerthanakamal/emotion-based-song-recommendation-system/commit/1b9f885667bb619d609e6053f3afe907c3e6f22e\">1b9f885</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/ecommerce_monorepo/commit/4868f8eb8e737988bf69ff41349dbbe6b3175ed9\">4868f8e</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
