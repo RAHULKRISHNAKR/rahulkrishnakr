@@ -41,9 +41,9 @@
   </div>
 </div>
 
-<div style="margin: 40px 0;">
+<div style="margin: 40 px 0;">
   <h3>⚙️ Tech Stack</h3>
-  <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <div style="display: flex; gap: 15 px; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -57,24 +57,24 @@
   </div>
 </div>
 
-<div style="margin: 40px 0;">
+<div style="margin: 40 px 0;">
   <h3>📊 Stats</h3>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 20 px; flex-wrap: wrap;">
     <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkrishnakr&theme=default" alt="Language Stats" />
     <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkrishnakr&theme=default" alt="GitHub Stats" />
   </div>
 </div>
 
-<div style="margin: 40px 0;">
+<div style="margin: 40 px 0;">
   <h3>🏆 Trophies</h3>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=rahulkrishnakr&row=1&column=7&margin-w=15" alt="Trophies" />
   </div>
 </div>
 
-<div style="margin: 40px 0;">
+<div style="margin: 40 px 0;">
   <h3>🎖️ My Badges</h3>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; gap: 10 px; flex-wrap: wrap; justify-content: center;">
     <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
@@ -93,13 +93,13 @@
   </div>
 </div>
 <br>
-<div align="center" style="margin-top: 60px;">
+<div align="center" style="margin-top: 60 px;">
   <p>🚀 Ready to collaborate or just have a chat? Let's connect and build something coooooool! 😄</p>
   <p>Made with ❤️ by <a href="https://github.com/rahulkrishnakr">Rahul Krishna K R</a></p>
   
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" />
+  <img src="[https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)" width="200" />
   
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 20 px;">
     <a href="https://github.com/rahulkrishnakr">
       <img src="https://img.shields.io/github/followers/rahulkrishnakr?label=Follow%20Me&style=social" alt="GitHub followers" />
     </a>
