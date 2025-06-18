@@ -10,14 +10,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 142 times)\n2. readme.md (used 107 times)\n3. create (used 99 times)\n4. added (used 41 times)\n5. initial (used 31 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 142 times)\n2. readme.md (used 107 times)\n3. create (used 99 times)\n4. added (used 45 times)\n5. initial (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/stone-PETER/KeralaHacks/commit/4a5d44d68f5f672f84d0fb86edcc93721b80b3be\">4a5d44d</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/MED-LIFE/commit/43fe12ddc09f9bb785c7194e95e0ba2a45fe0b8b\">43fe12d</a>\n- <a href=\"https://github.com/sana-jay/MED-LIFE/commit/43fe12ddc09f9bb785c7194e95e0ba2a45fe0b8b\">43fe12d</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Whytebox_mini/commit/b035f3349b6277b5575eee57d0e00f86861a26e8\">b035f33</a>\n- <a href=\"https://github.com/CoderZ865/Whytebox2.0/commit/b035f3349b6277b5575eee57d0e00f86861a26e8\">b035f33</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Whytebox_mini/commit/17f0e4c15658dddd872adbc0e6667b138da535cf\">17f0e4c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/ffefb846f6922251ddcbc71f94db238d9753f88d\">ffefb84</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/32d1b063c92784ee06c1ca991add624975327993\">32d1b06</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/421a5b00702940ff314dad8c3c0d965ff48b0ea6\">421a5b0</a>\n- <a href=\"https://github.com/stone-PETER/KeralaHacks/commit/4a5d44d68f5f672f84d0fb86edcc93721b80b3be\">4a5d44d</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/MED-LIFE/commit/43fe12ddc09f9bb785c7194e95e0ba2a45fe0b8b\">43fe12d</a>\n- <a href=\"https://github.com/sana-jay/MED-LIFE/commit/43fe12ddc09f9bb785c7194e95e0ba2a45fe0b8b\">43fe12d</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/c7c225f7c2d2b377eab962bfc45845a5a8c67f45\">c7c225f</a>\n- <a href=\"https://github.com/keerthanakamal/emotion-based-song-recommendation-system/commit/1b9f885667bb619d609e6053f3afe907c3e6f22e\">1b9f885</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/ecommerce_monorepo/commit/4868f8eb8e737988bf69ff41349dbbe6b3175ed9\">4868f8e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RAHULKRISHNAKR/Simple3Js/commit/b96fb461c3765f8bcfa6a60b09ea07bfeb7901f4\">b96fb46</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/c7c225f7c2d2b377eab962bfc45845a5a8c67f45\">c7c225f</a>\n- <a href=\"https://github.com/keerthanakamal/emotion-based-song-recommendation-system/commit/1b9f885667bb619d609e6053f3afe907c3e6f22e\">1b9f885</a>\n- <a href=\"https://github.com/RAHULKRISHNAKR/ecommerce_monorepo/commit/4868f8eb8e737988bf69ff41349dbbe6b3175ed9\">4868f8e</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
