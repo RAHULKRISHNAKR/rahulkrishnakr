@@ -20,9 +20,9 @@
   </div>
 </div>
 
-<div style="margin: 40px 0;">
+<div style="margin: 40 px 0;">
   <h3>🌐 Connect with me</h3>
-  <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <div style="display: flex; gap: 105 px; flex-wrap: wrap;">
     <a href="https://codepen.io/rahulkrishna003" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" />
     </a>
