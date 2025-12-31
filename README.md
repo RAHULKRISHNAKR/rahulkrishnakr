@@ -69,6 +69,7 @@
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
 <a href="my-badges/summer-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/summer-solstice-commits.png" alt="I commit in the Summer solstice." title="I commit in the Summer solstice." width="64"></a>
+<a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
 <!-- my-badges end -->
 
   </div>
