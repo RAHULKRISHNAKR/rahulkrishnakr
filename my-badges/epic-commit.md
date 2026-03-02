@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/RAHULKRISHNAKR/WhyteBox/commit/c2fe2653944a08029175bc3f7982922024973e4b">c2fe265</a>
+- <a href="https://github.com/RAHULKRISHNAKR/WhyteBox/commit/ec9c43f2d4942bc06bd17780809fb90c291e8ae4">ec9c43f</a>
 - <a href="https://github.com/RAHULKRISHNAKR/KTU-BTech-S7-Cloud-Computing-Lab/commit/f21c539c1848f5a70de62d89136697fcd356f651">f21c539</a>
 - <a href="https://github.com/RAHULKRISHNAKR/Simple3Js/commit/b96fb461c3765f8bcfa6a60b09ea07bfeb7901f4">b96fb46</a>
 - <a href="https://github.com/RAHULKRISHNAKR/Spam-Email-Detection-Using-Tensorflow/commit/c7c225f7c2d2b377eab962bfc45845a5a8c67f45">c7c225f</a>
